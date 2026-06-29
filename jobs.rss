@@ -8,7 +8,7 @@
     <description>Active job postings for research computing team leaders and managers</description>
     <link>https://www.researchcomputingteams.org/jobs</link>
     <atom:link href="https://www.researchcomputingteams.org/jobs.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 09 Feb 2026 19:15:17 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 01:08:21 -0000</lastBuildDate>
 
     <item>
       <title>Manager, Computational Scientific Programming, Research Computing - Empire AI</title>
@@ -35,17 +35,6 @@ The Manager, Research Software Engineering will support AI-driven research acros
     </item>
 
     <item>
-      <title>Research Software Services (AI) Lead - Digital Research Alliance of Canada</title>
-      <description><p>Reporting to the Vice-President, Operations and Cybersecurity, the Lead is responsible for direction, resource planning, stakeholder engagement, project oversight, and the development of a specialized national team of AI-focused research software experts. This role provides subject-matter expertise in scientific software development, AI/ML, HPC, and related computational research workflows, while fostering collaborative innovation and ensuring high-impact, researcher-focused service delivery.</p>
-<p><strong>Location:</strong> Remote CA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, HPC, Academia, IC Leadership, Software Development</p>
-<p><a href="https://www.alliancecan.ca/en/career-opportunities/research-software-services-ai-lead">View Job Posting</a></p></description>
-      <pubDate>Fri, 30 Jan 2026 05:00:00 -0000</pubDate>
-      <link>https://www.alliancecan.ca/en/career-opportunities/research-software-services-ai-lead</link>
-      <guid isPermaLink="false">job-3518</guid>
-    </item>
-
-    <item>
       <title>Group Leader, Data Acquisition Software - Oak Ridge National Laboratories</title>
       <description><p>We are seeking a Group Lead for our Data Acquisition (DAQ) Software Group who will focus on managing and leading a team of control software engineers to develop, maintain and support software for neutron instrument data acquisition, sample environment equipment, and experiment planning. This position resides in the Neutron Instrument Technologies Section, Neutron Technologies Division, Neutron Sciences Directorate at Oak Ridge National Laboratory (ORNL).</p>
 <p><strong>Location:</strong> Oak Ridge TN USA</p>
@@ -65,17 +54,6 @@ The Manager, Research Software Engineering will support AI-driven research acros
       <pubDate>Mon, 26 Jan 2026 05:00:00 -0000</pubDate>
       <link>https://www.linkedin.com/jobs/view/4330561157/</link>
       <guid isPermaLink="false">job-3516</guid>
-    </item>
-
-    <item>
-      <title>Director, Research Security - University of Buffalo</title>
-      <description><p>The Sr. VP for Research, Innovation and Economic Development is hiring a Director of Research Security who will develop and lead UB’s strategy for protecting sensitive research data, overseeing policy, compliance, and risk management. They will work with leadership, faculty and staff to balance data access with robust security and ethical guidelines.  The ideal candidate is a collaborative, strategic leader who will engage directly with our research community to reinforce standard practices, bridge organizational silos, and champion a culture of secure, compliant, and risk-aware research innovation. This position reflects UB’s commitment to integrating cybersecurity, research administration, and compliance culture under a unified, researcher-centric vision.</p>
-<p><strong>Location:</strong> Buffalo NY USA</p>
-<p><strong>Categories:</strong> Academia, Data Management/Governance</p>
-<p><a href="https://www.ubjobs.buffalo.edu/postings/60709">View Job Posting</a></p></description>
-      <pubDate>Wed, 21 Jan 2026 05:00:00 -0000</pubDate>
-      <link>https://www.ubjobs.buffalo.edu/postings/60709</link>
-      <guid isPermaLink="false">job-3515</guid>
     </item>
 
     <item>
@@ -101,17 +79,6 @@ The Manager, Research Software Engineering will support AI-driven research acros
     </item>
 
     <item>
-      <title>Software Engineering Manager - HPC CUDA Processing Libraries - NVIDIA</title>
-      <description><p>In this role, you will be responsible for managing a team of highly skilled engineers, focusing on the development of an accelerated data processing solutions.  Lead and motivate your team to successfully conduct projects that meet both internal and external customer needs.  Actively collaborate with the deep learning software engineering community to contribute to and improve open source code bases.  Build and maintain a project roadmap that aligns with our daring goals and customer expectations.</p>
-<p><strong>Location:</strong> Remote BE or HU or DK or PL</p>
-<p><strong>Categories:</strong> HPC, Industry, Software Development</p>
-<p><a href="https://www.linkedin.com/jobs/view/4062622741/">View Job Posting</a></p></description>
-      <pubDate>Mon, 19 Jan 2026 05:00:00 -0000</pubDate>
-      <link>https://www.linkedin.com/jobs/view/4062622741/</link>
-      <guid isPermaLink="false">job-3514</guid>
-    </item>
-
-    <item>
       <title>Lead, Technical Support, OnSPARK - McMaster University</title>
       <description><p>OnSPARK (https://onspark.ca/) is a health data platform that undertakes research in support of quality improvement and innovation across the long-term care (LTC) sector in Ontario. Operating in close collaboration with health system, government and academic partners, OnSPARK securely integrates and curates real-world data from LTC homes to enable high-impact, evidence-informed and (especially) sector-relevant research involving both de-identified and PHIPA-sensitive data.  The Lead Technical Support position works within CSU and supports the OnSPARK Data Platform, playing an essential role in ensuring smooth and secure day-to-day operations. Main responsibilities: i) providing technical/compute environment compliance leadership for the secure operation of the Platform in accord with McMaster institutional cybersecurity policies, the Personal Health Information Protection Act (PHIPA, 2004), Research Ethics Board requirements, OnSPARK’s Data Governance Framework and other relevant policies/regulations; and ii) leading/managing technical aspects of the OnSPARK platform operations and projects.</p>
 <p><strong>Location:</strong> Hamilton ON CA</p>
@@ -120,17 +87,6 @@ The Manager, Research Software Engineering will support AI-driven research acros
       <pubDate>Sun, 18 Jan 2026 05:00:00 -0000</pubDate>
       <link>https://www.linkedin.com/jobs/view/4359470939/</link>
       <guid isPermaLink="false">job-3511</guid>
-    </item>
-
-    <item>
-      <title>Director of Open Technology: Leading Technology for Climate Solution Platforms - Open Earth Foundation</title>
-      <description><p>Join us in our mission to build open-source innovative technology solutions for impactful climate change mitigation.  As a Director of Open Technology on our team, you will : Lead and support a small, distributed engineering team across full-stack, data, and AI work; Help guide technical decisions that keep our platform stable, scalable and easy to evolve; Partner closely with product and leadership to turn real-world needs into shipped features; Strengthen development practices, documentation and collaboration across the team; Support thoughtful, responsible use of AI in both product development and internal workflows; Help shape technical direction and priorities, ensuring decisions support long-term sustainability and real-world impact</p>
-<p><strong>Location:</strong> Global Remote (North America or Europe Time Zones)</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Data Systems, Nonprofit, Data Management/Governance, Software Development, Weather/Climate</p>
-<p><a href="https://www.linkedin.com/jobs/view/4329739466">View Job Posting</a></p></description>
-      <pubDate>Sat, 17 Jan 2026 05:00:00 -0000</pubDate>
-      <link>https://www.linkedin.com/jobs/view/4329739466</link>
-      <guid isPermaLink="false">job-3506</guid>
     </item>
 
     <item>
@@ -222,17 +178,6 @@ The Manager, Research Software Engineering will support AI-driven research acros
     </item>
 
     <item>
-      <title>Lead Research Software Engineer, Princeton AI Lab - Princeton University</title>
-      <description><p>As Lead RSE, you will play a key role in both communities: collaborating with faculty, postdoctoral researchers, and students from diverse disciplines while leading a small team of Research Software Engineers. Your team will design and implement robust, maintainable software solutions for complex research problems and promote best practices in software engineering and reproducible science.</p>
-<p><strong>Location:</strong> Princeton NJ USA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Academia, IC Leadership, Software Development</p>
-<p><a href="https://main-princeton.icims.com/jobs/21397/lead-research-software-engineer/job">View Job Posting</a></p></description>
-      <pubDate>Tue, 06 Jan 2026 05:00:00 -0000</pubDate>
-      <link>https://main-princeton.icims.com/jobs/21397/lead-research-software-engineer/job</link>
-      <guid isPermaLink="false">job-3499</guid>
-    </item>
-
-    <item>
       <title>Head of AI Core Unit / Data Scientist - BioSysteM - Technical University of Munich</title>
       <description><p>We are looking for an Independent junior research group leader (m/f/d) with knowledge of data / AI science to set up and lead the AI Core Unit of the BioSysteM Cluster of Excellence as soon as possible. The position is initially for 4 years and can be extended until 31.12.2032</p>
 <p><strong>Location:</strong> Munich DE</p>
@@ -241,28 +186,6 @@ The Manager, Research Software Engineering will support AI-driven research acros
       <pubDate>Sat, 03 Jan 2026 05:00:00 -0000</pubDate>
       <link>https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20251204_155309</link>
       <guid isPermaLink="false">job-3496</guid>
-    </item>
-
-    <item>
-      <title>Head of Quantum Customer Solutions - Silicon Quantum Computing</title>
-      <description><p>As Head of Quantum Customer Solutions, you will build and lead SQC’s customer-facing technical team to drive the adoption and commercialisation of our quantum computing products. This strategic, high-impact role sits at the intersection of technology, customer engagement, and business growth.</p>
-<p><strong>Location:</strong> Sydney NSW AU</p>
-<p><strong>Categories:</strong> Quantum Computing, Industry, Consulting</p>
-<p><a href="https://careers.sqc.com.au/jobs/6951978-head-of-quantum-customer-solutions">View Job Posting</a></p></description>
-      <pubDate>Sat, 03 Jan 2026 05:00:00 -0000</pubDate>
-      <link>https://careers.sqc.com.au/jobs/6951978-head-of-quantum-customer-solutions</link>
-      <guid isPermaLink="false">job-3498</guid>
-    </item>
-
-    <item>
-      <title>Manager, Data Science &amp; Artificial Intelligence - British Columbia Institute of Technology</title>
-      <description><p>BCIT’s Information Technology Services department is seeking a regular, full-time (1.0 FTE) Manager, Data Science &amp; Artificial Intelligence. This position establishes and implements a corporate data model, data management, data governance, data warehousing and architecture programs for the Institute in alignment with the organizational priorities, plans, goals and strategic decision making. Oversees the Institute’s operational reporting systems, including IBM Cognos, IBM TM1, and Millennium FAST Reports and associated Oracle and Microsoft SQL databases. Leads the development and governance of Artificial Intelligence (AI) initiatives across the Institute ensuring ethical, transparent, and responsible use of AI technologies are in alignment with institutional goals and regulatory standards.</p>
-<p><strong>Location:</strong> Burnaby BC CA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Academia, Data Management/Governance</p>
-<p><a href="https://careers.bcit.ca/postings/9960">View Job Posting</a></p></description>
-      <pubDate>Sat, 03 Jan 2026 05:00:00 -0000</pubDate>
-      <link>https://careers.bcit.ca/postings/9960</link>
-      <guid isPermaLink="false">job-3495</guid>
     </item>
 
     <item>
@@ -297,17 +220,6 @@ However, they will also involve more in-depth engagements, including events such
       <pubDate>Tue, 30 Dec 2025 05:00:00 -0000</pubDate>
       <link>https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Associate-Vice-President--Research-Computing-and-Data---Office-of-the-Vice-President-for-Research--OVPR-_2023266</link>
       <guid isPermaLink="false">job-3493</guid>
-    </item>
-
-    <item>
-      <title>Development Manager (m/f/d) - Optimization &amp; Quantum Algorithms - SAP</title>
-      <description><p>SAP is launching a bold, long-term initiative to explore the transformative potential of Quantum Technologies in enterprise software. Anchored within the Office of the CTO and led by a dedicated Head of Quantum, we are building a world-class team of experts across physics, algorithms, engineering, and enterprise domains. This effort aims to develop quantum-enabled applications, foster collaboration across business units, and grow an ecosystem of partners, start-ups, and research institutions. The Development Manager Optimization &amp; Quantum will play a pivotal leadership role within the SCM Optimization organization, managing a team high-performing of developers and architects to evolve the algorithms of the SCM Optimization &amp; Data Science technology to become truly “quantum-native”. In this position you are responsible for building-up a team of experts that executes on  SAP’s vision of Quantum Optimization in future quantum algorithms for Optimization and Data Science. In your role you will collaborate with leading experts in the field of High-Performance Computing, Operations Research and Quantum Computing across domains and jurisdictions</p>
-<p><strong>Location:</strong> Garching DE</p>
-<p><strong>Categories:</strong> Quantum Computing, Industry, IC Leadership, Software Development</p>
-<p><a href="https://jobs.sap.com/job/Garching-Development-Manager-%28mfd%29-Optimization-&amp;-Quantum-Algorithms-85748/1244139601/?feedId=384233">View Job Posting</a></p></description>
-      <pubDate>Tue, 30 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://jobs.sap.com/job/Garching-Development-Manager-%28mfd%29-Optimization-&amp;-Quantum-Algorithms-85748/1244139601/?feedId=384233</link>
-      <guid isPermaLink="false">job-3487</guid>
     </item>
 
     <item>
@@ -356,17 +268,6 @@ Communicate software feature roadmaps and resource needs between the control sof
     </item>
 
     <item>
-      <title>Senior Director, Advanced Systems (HPC) - Princeton University</title>
-      <description><p>The Senior Director of Advanced Systems in the Research Computing department within the Office of the Dean for Research, leads a team of technical experts and system administrators that design, deploy, maintain, and support Princeton’s centralized high performance computing (HPC) systems. Based on the strategic vision defined by University leadership and campus partners, the Senior Director of Advanced Systems sets the strategic roadmap for advanced HPC systems, provides technical leadership to their team and campus partners, and is ultimately responsible for cluster design, implementation, schedule efficiency, and administration. The Senior Director monitors research and technology trends in the computational research space and spearheads the technical design and implementation of services that meet campus needs This requires the Senior Director to remain current with trends in data science, machine learning, deep learning and AI technologies while anticipating faculty needs and strategically advocating for growth in Princeton-offered services. Responsible for understanding changes to campus need and technology evolution, the Senior Director of Advanced Systems plays a crucial role in balancing institutional investment with campus demand and new technology trends to meet the needs of our world class research community.</p>
-<p><strong>Location:</strong> Princeton NJ</p>
-<p><strong>Categories:</strong> HPC, Academia</p>
-<p><a href="https://main-princeton.icims.com/jobs/21296/senior-director%2c-advanced-systems-%28hpc%29/job">View Job Posting</a></p></description>
-      <pubDate>Tue, 30 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://main-princeton.icims.com/jobs/21296/senior-director%2c-advanced-systems-%28hpc%29/job</link>
-      <guid isPermaLink="false">job-3490</guid>
-    </item>
-
-    <item>
       <title>AI Network Development Manager - University of Leeds</title>
       <description><p>We are seeking a creative, motivated, and proactive AI Network Development Manager with excellent organisational skills to coordinate the day-to-day operations of a recently awarded AI Researcher Development Network Plus (AI.RDN+) grant, funded by the Research England Development Fund. This initiative aims to unite doctoral ecosystem stakeholders across more than 20 universities and external organisations throughout the UK. The postholder is expected to work closely with the wider project team based in the University of Leeds and Aston University.     As AI Network Manager, you will take responsibility for developing and implementing detailed project plans, managing timelines and milestones, and ensuring successful delivery across all work packages. You will act as the primary point of contact for internal and external stakeholders, fostering collaboration and providing strategic guidance to partners and consortia. A key aspect of the role will involve maintaining effective communication with project partners, coordinating engagement activities, and promoting the project through newsletters, social media, and strategic communications.</p>
 <p><strong>Location:</strong> Leeds UK</p>
@@ -375,17 +276,6 @@ Communicate software feature roadmaps and resource needs between the control sof
       <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
       <link>https://jobs.leeds.ac.uk/Vacancy.aspx?ref=AHCDE1314</link>
       <guid isPermaLink="false">job-3475</guid>
-    </item>
-
-    <item>
-      <title>Associate Director, High-Performance Computing - Takeda</title>
-      <description><p>As a recognized expert within your business or function, you possess comprehensive expertise in high-performance computing and AWS architecture, with broad knowledge across related areas. You excel at anticipating internal/external challenges, recommending improvements, and providing leadership and consultative expertise in HPC across the business, regions, or functions. Your role involves shaping company policies, solving unique, far-reaching problems affecting operations, disciplines, or other business units/functional areas/regions. You frequently interact with equivalent-level managers and customer representatives, conducting briefings and technical meetings. Operating independently, you provide guidance in the most complex situations, lead functional teams or projects, and serve as a best practice/quality resource for scientific computing initiatives.  Architect and implement scalable high-performance computing (HPC) solutions on AWS for computational chemistry, molecular dynamics, and large-scale genomics workflows.</p>
-<p><strong>Location:</strong> Boston MA USA</p>
-<p><strong>Categories:</strong> Cloud, Data Science/ML/AI, HPC, Industry, Biomedical</p>
-<p><a href="https://jobs.takeda.com/job/-/-/1113/88587924576">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://jobs.takeda.com/job/-/-/1113/88587924576</link>
-      <guid isPermaLink="false">job-3479</guid>
     </item>
 
     <item>
@@ -419,17 +309,6 @@ Communicate software feature roadmaps and resource needs between the control sof
       <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
       <link>https://explore.msujobs.msstate.edu/en-us/job/509904/executive-director-high-performance-research-computing</link>
       <guid isPermaLink="false">job-3457</guid>
-    </item>
-
-    <item>
-      <title>HPC &amp; AI Engineering Program Manager - Hewlett Packard Enterprises</title>
-      <description><p>The Engineering Program Manager (EPM) within the High-Performance Computing &amp; AI Business Unit is responsible for overseeing and managing project controls for key R &amp; D programs on the product roadmap.  This role ensures that product development initiatives are delivered on time, within scope, and within budget, while meeting quality and business requirements. The EPM works cross-functionally with engineering, product management, product lifecycle management, quality, finance, and operations teams to establish project plans, monitor progress, identify risks, and implement mitigation strategies. The EPM leverages strong organizational, analytical, and communication skills to drive execution, resolve issues, and keep stakeholders informed throughout the program lifecycle. This position plays a critical role in enabling the successful delivery of innovative HPC and AI solutions to market.</p>
-<p><strong>Location:</strong> Chippawa Falls WI USA</p>
-<p><strong>Categories:</strong> HPC, Industry, Project/Program Manager</p>
-<p><a href="https://careers.hpe.com/us/en/job/1198880/HPC--AI-Engineering-Program-Manager">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://careers.hpe.com/us/en/job/1198880/HPC--AI-Engineering-Program-Manager</link>
-      <guid isPermaLink="false">job-3477</guid>
     </item>
 
     <item>
@@ -524,39 +403,6 @@ The Research Computing Manager will maintain core systems and software along wit
     </item>
 
     <item>
-      <title>Senior Applied Science Manager, Applied AI - Amazon</title>
-      <description><p>We are seeking a passionate, talented, and inventive individual to join the Applied AI team and help build industry-leading technologies that customers will love. This team offers a unique opportunity to make a significant impact on the customer experience and contribute to the design, architecture, and implementation of a highly innovative product.  On our team you will push the boundaries of ML and Generative AI techniques to scale the inputs for hundreds of billions of dollars of annual revenue for our eCommerce business. If you have a passion for AI technologies, a drive to innovate and a desire to make a meaningful impact, we invite you to become a valued member of our team.</p>
-<p><strong>Location:</strong> Bellvue WA USA</p>
-<p><strong>Categories:</strong> Cloud, Data Science/ML/AI, Industry</p>
-<p><a href="https://www.amazon.jobs/en/jobs/3112181/senior-applied-science-manager-applied-ai">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://www.amazon.jobs/en/jobs/3112181/senior-applied-science-manager-applied-ai</link>
-      <guid isPermaLink="false">job-3462</guid>
-    </item>
-
-    <item>
-      <title>Senior Manager – Gene Reading Bioinformatics - Danaher</title>
-      <description><p>Manage and direct staff, including hiring, training, coaching, performance management, talent development, and in collaboration with direct reports, sets annual performance objectives and development goals. Plan resources and achieve project milestones and timelines. Collaborate with the business unit to engage with NGS customers, identify new projects, manage project priority, and protect IDT patent positions. Establish productive collaborations with key opinion leaders and other Danaher operating companies to drive innovative technology and product development. Support the integration of R&amp;D activities with global business plans and serve as an advisor to executive leadership.</p>
-<p><strong>Location:</strong> Sunnyvale CA USA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Biomedical</p>
-<p><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1300747EXTERNALENGLOBAL/Senior-Manager-Gene-Reading-Bioinformatics">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://jobs.danaher.com/global/en/job/DANAGLOBALR1300747EXTERNALENGLOBAL/Senior-Manager-Gene-Reading-Bioinformatics</link>
-      <guid isPermaLink="false">job-3471</guid>
-    </item>
-
-    <item>
-      <title>Senior Product Manager - Technical, HPC and Visualization - Amazon</title>
-      <description><p>The High Performance Computing (HPC) team is looking for a talented product manager to help us develop the HPC portfolio of products within AWS, which includes products like AWS Batch and AWS ParallelCluster, as well as network interfaces like Elastic Fabric Adapter (EFA). You will work closely with teams in EC2 as well as on new technology from Annapurna Labs. As a Senior Product Manager Technical - External Services, you will own product development from strategy/product vision through feature definition, prioritization, positioning, naming, and GTM/adoption. We are looking for an experienced product manager who is passionate about solving customer problems, and has demonstrated success working backwards from ambiguous customer needs, translating them into disruptive, successful products that delight customers. You will have the curiosity to dig into complex business problems, challenge the status quo, and bias towards using data to simplify the customer experience.</p>
-<p><strong>Location:</strong> Vancouver BC CA</p>
-<p><strong>Categories:</strong> Cloud, HPC, Industry, Product Manager</p>
-<p><a href="https://www.amazon.jobs/en/jobs/3120003/senior-product-manager-technical-hpc-and-visualization">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://www.amazon.jobs/en/jobs/3120003/senior-product-manager-technical-hpc-and-visualization</link>
-      <guid isPermaLink="false">job-3459</guid>
-    </item>
-
-    <item>
       <title>Senior Program Manager, Clinical Research Informatics - Columbia University</title>
       <description><p>The Irving Institute seeks a Senior Program Manager for Clinical Research Informatics. The Senior Program Manager is charged with development, implementation, and coordination of research support services and instructional programs to facilitate clinical research informatics. The candidate will work independently and proactively towards the development, implementation, coordination and management of research support services and instructional programs to facilitate clinical research informatics. With direction from the Co-Directors, the Senior Program Manager will coordinate, monitor and report on Clinical Research Informatics projects with participating faculty. In coordination with research administration leaders, the Senior Program Manager will assist institutional research programs to simplify and enhance research processes.</p>
 <p><strong>Location:</strong> New York NY USA</p>
@@ -565,28 +411,6 @@ The Research Computing Manager will maintain core systems and software along wit
       <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
       <link>https://opportunities.columbia.edu/jobs/senior-program-manager-clinical-research-informatics-columbia-university-medical-center-new-york-united-states</link>
       <guid isPermaLink="false">job-3469</guid>
-    </item>
-
-    <item>
-      <title>Software Development Manager, Amazon FSx for Lustre - Amazon</title>
-      <description><p>We are looking for an exceptional software development leader to help revolutionize cloud file storage for workloads like GPU-heavy AI/ML workloads, high-performance computing (HPC), and enterprise applications. Launched in 2018, Amazon FSx for Lustre is an AWS service that provides fully managed, and high-performance file storage that powers some of the most critical and largest-scale workloads running on AWS today.  As a Software Development Manager, you will lead a team designing and building transformative new customers experiences on Amazon FSx for Lustre. Delivering reliable and high-performance services and features at AWS scale requires technical leaders with extraordinary expertise and boundless creativity. At Amazon, managers will interact with customers, understand our business goals, and innovate rapidly, delivering high-quality and ground-breaking functionality.</p>
-<p><strong>Location:</strong> Boston MA USA</p>
-<p><strong>Categories:</strong> Cloud, Storage, Software Development</p>
-<p><a href="https://www.amazon.jobs/en/jobs/3125702/software-development-manager-amazon-fsx-for-lustre">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://www.amazon.jobs/en/jobs/3125702/software-development-manager-amazon-fsx-for-lustre</link>
-      <guid isPermaLink="false">job-3460</guid>
-    </item>
-
-    <item>
-      <title>Software Engineering Manager, Control Stack, AWS Center for Quantum Computing - Amazon</title>
-      <description><p>he Amazon Web Services (AWS) Center for Quantum Computing (CQC) is a multi-disciplinary team of scientists, engineers, and technicians, on a mission to develop a fault-tolerant quantum computer.  You will lead a team of interdisciplinary scientists and software engineers, focused on developing software and infrastructure to support the development and operation of scalable fault-tolerant quantum computers. You will interface directly with our experimental physics and control hardware teams to develop and drive a vision for the experimental quantum computing software-hardware interface. The ideal candidate will (1) have strong technical breadth across low-level programming, scientific instrumentation, and computer architecture, (2) have excellent communication skills and a proven track record of collaborating with scientists and hardware engineers, and (3) be excited about empowering and growing a team of scientists and software engineers.</p>
-<p><strong>Location:</strong> Pasadena CA USA</p>
-<p><strong>Categories:</strong> Cloud, Quantum Computing, Industry, Software Development</p>
-<p><a href="https://www.amazon.jobs/en/jobs/3072257/software-engineering-manager-control-stack-aws-center-for-quantum-computing">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://www.amazon.jobs/en/jobs/3072257/software-engineering-manager-control-stack-aws-center-for-quantum-computing</link>
-      <guid isPermaLink="false">job-3461</guid>
     </item>
 
     <item>
@@ -622,17 +446,6 @@ One of the largest applications the group develops and maintains is the NCCS cus
       <pubDate>Thu, 18 Dec 2025 05:00:00 -0000</pubDate>
       <link>https://jobs.ornl.gov/job/Oak-Ridge-Group-Leader%2C-Software-Services-Development-TN-37830/1341104700/</link>
       <guid isPermaLink="false">job-1</guid>
-    </item>
-
-    <item>
-      <title>Lead Research Software Engineer, Center for Geospatial Solutions Operations - Yale University</title>
-      <description><p>The Lead Research Software Engineer serves as the principal technical architect for the newly launched Yale Center for Geospatial Solutions (YCGS). This role bridges cutting-edge research needs and production-grade engineering to develop software systems that enable geospatial discovery, AI applications, and data-driven decision making across disciplines. Working closely with faculty, researchers, and partners from digital humanities and economics to climate science and engineering, the lead RSE will design scalable infrastructure, mentor a multidisciplinary team, and establish campus-wide standards for reproducible computational research.</p>
-<p><strong>Location:</strong> New Haven CT USA</p>
-<p><strong>Categories:</strong> Academia, IC Leadership, Software Development, Geospatial</p>
-<p><a href="https://careers.yale.edu/us/en/job/YUCYUHUS130727WDEXTERNALENUS/Lead-Research-Software-Engineer">View Job Posting</a></p></description>
-      <pubDate>Fri, 05 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://careers.yale.edu/us/en/job/YUCYUHUS130727WDEXTERNALENUS/Lead-Research-Software-Engineer</link>
-      <guid isPermaLink="false">job-3</guid>
     </item>
 
     <item>
@@ -790,28 +603,6 @@ One of the largest applications the group develops and maintains is the NCCS cus
     </item>
 
     <item>
-      <title>Senior Director, Advanced Systems (HPC) - Princeton University</title>
-      <description><p>The Senior Director of Advanced Systems in the Research Computing department within the Office of the Dean for Research, leads a team of technical experts and system administrators that design, deploy, maintain, and support Princeton’s centralized high performance computing (HPC) systems. Based on the strategic vision defined by University leadership and campus partners, the Senior Director of Advanced Systems sets the strategic roadmap for advanced HPC systems, provides technical leadership to their team and campus partners, and is ultimately responsible for cluster design, implementation, schedule efficiency, and administration.</p>
-<p><strong>Location:</strong> Princeton NJ USA</p>
-<p><strong>Categories:</strong> HPC, Academia</p>
-<p><a href="https://main-princeton.icims.com/jobs/21296/senior-director%252c-advanced-systems-%2528hpc%2529/job?applicant_guid=f1fd1f5f-307c-4292-8851-1e8dcb0fabe2&amp;iis=JobTarget&amp;iisn=Chronicle+of+Higher+Education&amp;_jtochash=JWD2rKIQpyNVAfaXXf2KrE&amp;_jtocprof=j-FnZAUhIgV4m5D9b8aZt5xn9sY9N1wn&amp;mobile=false&amp;width=1280&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-300&amp;jun1offset=-240">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://main-princeton.icims.com/jobs/21296/senior-director%252c-advanced-systems-%2528hpc%2529/job?applicant_guid=f1fd1f5f-307c-4292-8851-1e8dcb0fabe2&amp;iis=JobTarget&amp;iisn=Chronicle+of+Higher+Education&amp;_jtochash=JWD2rKIQpyNVAfaXXf2KrE&amp;_jtocprof=j-FnZAUhIgV4m5D9b8aZt5xn9sY9N1wn&amp;mobile=false&amp;width=1280&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-300&amp;jun1offset=-240</link>
-      <guid isPermaLink="false">job-8</guid>
-    </item>
-
-    <item>
-      <title>Senior Manager, Research Software Engineering - Purdue University</title>
-      <description><p>Purdue University’s RCAC invites applications for a strategic and collaborative Senior Manager to lead the Center for Research Software Engineering. In this pivotal role, you will guide a team of independent-minded, experienced professionals dedicated to supporting and advancing Purdue’s diverse research community through innovative software solutions.</p>
-<p><strong>Location:</strong> West Lafayette IN USA</p>
-<p><strong>Categories:</strong> Academia, Software Development</p>
-<p><a href="https://careers.purdue.edu/job/Senior-Manager%2C-Research-Software-Engineering/39229-en_US/">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://careers.purdue.edu/job/Senior-Manager%2C-Research-Software-Engineering/39229-en_US/</link>
-      <guid isPermaLink="false">job-10</guid>
-    </item>
-
-    <item>
       <title>Senior Product Manager, Azure HPC &amp; AI - Microsoft</title>
       <description><p>Deliver supercomputers to our biggest customers, navigating rapid technology shifts to ensure smooth integration of cutting-edge SKUs into the production fleet.  We are seeking an experienced and highly collaborative Infrastructure
 Senior Product Manager to drive the successful execution of complex
@@ -851,28 +642,6 @@ leadership.</p>
     </item>
 
     <item>
-      <title>Senior Director, Advanced Systems (HPC) - Princeton University</title>
-      <description><p>The Senior Director of Advanced Systems in the Research Computing department within the Office of the Dean for Research, leads a team of technical experts and system administrators that design, deploy, maintain, and support Princeton’s centralized high performance computing (HPC) systems. Based on the strategic vision defined by University leadership and campus partners, the Senior Director of Advanced Systems sets the strategic roadmap for advanced HPC systems, provides technical leadership to their team and campus partners, and is ultimately responsible for cluster design, implementation, schedule efficiency, and administration.</p>
-<p><strong>Location:</strong> Princeton NJ USA</p>
-<p><strong>Categories:</strong> HPC, Academia</p>
-<p><a href="https://main-princeton.icims.com/jobs/21296/senior-director%2c-advanced-systems-%28hpc%29/job?iis=Social+Networks&amp;iieid=pt17618343837105f89c&amp;mobile=false&amp;width=1280&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-300&amp;jun1offset=-240">View Job Posting</a></p></description>
-      <pubDate>Tue, 04 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://main-princeton.icims.com/jobs/21296/senior-director%2c-advanced-systems-%28hpc%29/job?iis=Social+Networks&amp;iieid=pt17618343837105f89c&amp;mobile=false&amp;width=1280&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-300&amp;jun1offset=-240</link>
-      <guid isPermaLink="false">job-34</guid>
-    </item>
-
-    <item>
-      <title>Lead Research Software Engineer - Princeton University</title>
-      <description><p>The Princeton Language and Intelligence Initiative at Princeton University invites applications for a Lead Research Software Engineer.  In this position, you will be a lead and integral member of dynamic research teams focused on building innovative and complete software solutions for cutting-edge AI research and making fundamental contributions to AI projects with Princeton’s world-class researchers. As a Lead RSE, you will oversee a team of Research Software Engineers working on varied engineering solutions associated with large AI models. You will bring your advanced technical knowledge and project management experience to raise the computational capability of the team and translate key PLI priorities into engineering solutions.</p>
-<p><strong>Location:</strong> Princeton NJ USA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, IC Leadership, Software Development</p>
-<p><a href="https://main-princeton.icims.com/jobs/19506/lead-research-software-engineer/job?hub=15&amp;_gl=1*1q48gki*_ga*NjM3NDY0NzM4LjE3NTAxNzQ4NDE.*_ga_5Y2BYGL910*czE3NTA5NzA2MzckbzMkZzEkdDE3NTA5NzA3MDQkajU5JGwwJGgw">View Job Posting</a></p></description>
-      <pubDate>Fri, 15 Aug 2025 04:00:00 -0000</pubDate>
-      <link>https://main-princeton.icims.com/jobs/19506/lead-research-software-engineer/job?hub=15&amp;_gl=1*1q48gki*_ga*NjM3NDY0NzM4LjE3NTAxNzQ4NDE.*_ga_5Y2BYGL910*czE3NTA5NzA2MzckbzMkZzEkdDE3NTA5NzA3MDQkajU5JGwwJGgw</link>
-      <guid isPermaLink="false">job-35</guid>
-    </item>
-
-    <item>
       <title>Manager, Research Computing - Boston College</title>
       <description><p>This position is responsible for management of the University’s high-performance research computing functions. This position provides infrastructure support for the high performance computing cluster and develops structure to manage resource demand growth. Additionally, this position will provide consultation and support to Boston College faculty and principal investigators’ research computing project needs. Provides faculty and their research groups with consulting, user support, and training in relevant applications and tools, sharing expertise and support for research design, analysis, and grants. Supports users of research facilities and assists with managing, analyzing and producing projects.</p>
 <p><strong>Location:</strong> Chestnut Hill MA USA</p>
@@ -903,17 +672,6 @@ leadership.</p>
       <pubDate>Thu, 01 May 2025 04:00:00 -0000</pubDate>
       <link>https://www.parallel.bio/careers?ashby_jid=d5073f44-c8f5-444b-a0cf-35178578bca6</link>
       <guid isPermaLink="false">job-41</guid>
-    </item>
-
-    <item>
-      <title>Head, Immunobiology Data Sciences - Biogen</title>
-      <description><p>Biogen is seeking an experienced Bioinformatics professional to lead the design, implementation, and growth of our information architecture. This highly visible and valued role will be instrumental in advancing our products through R&amp;D and clinical trials. The successful candidate will manage infrastructure and resources to meet organizational needs and work cross-functionally to identify long-term, scalable, and practical solutions for research, translational, clinical, and business operations. Additionally, the role involves utilizing advanced computational and statistical methods to analyze large datasets from diverse sources (genetic, clinical, biological) to predict disease progression, identify potential drug targets and biomarkers, and inform development decisions.</p>
-<p><strong>Location:</strong> San Francisco Bay Area, CA USA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Data Management/Governance, Biomedical</p>
-<p><a href="https://www.nature.com/naturecareers/job/12838939#application-form">View Job Posting</a></p></description>
-      <pubDate>Sun, 20 Apr 2025 04:00:00 -0000</pubDate>
-      <link>https://www.nature.com/naturecareers/job/12838939#application-form</link>
-      <guid isPermaLink="false">job-42</guid>
     </item>
 
     <item>
@@ -991,17 +749,6 @@ leadership.</p>
       <pubDate>Sun, 13 Apr 2025 04:00:00 -0000</pubDate>
       <link>https://external-careers.jobs.unsw.edu.au/cw/en/job/531488?lApplicationSubSourceID=11198</link>
       <guid isPermaLink="false">job-46</guid>
-    </item>
-
-    <item>
-      <title>Project Manager (Centre for Pathogen Genomics) - University of Melbourne</title>
-      <description><p>As the Project Manager for the Training Hub within the Centre for Pathogen Genomics, you&#x27;ll play a crucial role in developing and implementing pathogen genomics programmes across the Asia-Pacific. You&#x27;ll manage complex, multi-stakeholder projects, working with leading experts to enhance regional infectious disease surveillance. This role offers you the opportunity to make a significant impact on global health, while developing your project management skills in a dynamic, international context.</p>
-<p><strong>Location:</strong> Parkville VIC AU</p>
-<p><strong>Categories:</strong> Academia, Project/Program Manager, Biomedical</p>
-<p><a href="https://jobs.unimelb.edu.au/en/job/919850/project-manager-centre-for-pathogen-genomics">View Job Posting</a></p></description>
-      <pubDate>Sun, 13 Apr 2025 04:00:00 -0000</pubDate>
-      <link>https://jobs.unimelb.edu.au/en/job/919850/project-manager-centre-for-pathogen-genomics</link>
-      <guid isPermaLink="false">job-47</guid>
     </item>
 
     <item>
@@ -1129,17 +876,6 @@ Continuously focus on technology improvement, optimization, and process enhancem
     </item>
 
     <item>
-      <title>Bioinformatics Manager - ZS Discovery</title>
-      <description><p>The Bioinformatics Manager will be responsible for contributing to the growth of the Venture by applying scientific and technical expertise to generate new Discovery opportunities, build long term trusted advisory relationships with key stakeholders in pharma/biotech, and develop &amp; deliver solutions relevant to your client base. You will promote ZS’s capabilities in the industry, growing our client awareness and presence.</p>
-<p><strong>Location:</strong> London UK</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Biomedical</p>
-<p><a href="https://jobs.zs.com/jobs/22255">View Job Posting</a></p></description>
-      <pubDate>Sat, 01 Mar 2025 05:00:00 -0000</pubDate>
-      <link>https://jobs.zs.com/jobs/22255</link>
-      <guid isPermaLink="false">job-83</guid>
-    </item>
-
-    <item>
       <title>Director of Cloud, HPC, and Web Services (Hybrid Eligble) - University of Pennsylvania</title>
       <description><p>The Director of Cloud, HPC, and Web Services at Penn Arts and Sciences has a strong technical background and demonstrated experience leading IT teams in managing, innovating, and implementing technical services and solutions, preferably in a higher education environment. This role provides strategic direction and functional leadership for three critical infrastructure services for Penn’s School of Arts and Sciences: cloud Linux services (primarily AWS) supporting research, teaching, and administrative applications; on-premises Linux high performance computing (HPC) supporting cutting-edge research; and cloud-based Web Services supporting over 100 School websites.  The position is hybrid elgibile, with 2-3 days per week required on campus or in our data center.</p>
 <p><strong>Location:</strong> Philadelphia PA USA</p>
@@ -1247,17 +983,6 @@ Continuously focus on technology improvement, optimization, and process enhancem
       <pubDate>Sun, 23 Feb 2025 05:00:00 -0000</pubDate>
       <link>https://apply.workable.com/mila-2/j/43D377A298/</link>
       <guid isPermaLink="false">job-109</guid>
-    </item>
-
-    <item>
-      <title>Member of Technical Staff, Platform Engineering Manager - Microsoft</title>
-      <description><p>Build secure and performant AI Platform services that power Copilot.   Work collaboratively with other Platform, infrastructure, application engineers as well as AI Researchers to build next generation AI products and services.  Ship high-quality, well-tested, secure, and maintainable code.</p>
-<p><strong>Location:</strong> Redmond WA USA</p>
-<p><strong>Categories:</strong> Cloud, Data Science/ML/AI</p>
-<p><a href="https://microsoftai.eightfold.ai/careers/job/1970324837005181">View Job Posting</a></p></description>
-      <pubDate>Sun, 23 Feb 2025 05:00:00 -0000</pubDate>
-      <link>https://microsoftai.eightfold.ai/careers/job/1970324837005181</link>
-      <guid isPermaLink="false">job-114</guid>
     </item>
 
     <item>
@@ -1456,17 +1181,6 @@ Continuously focus on technology improvement, optimization, and process enhancem
       <pubDate>Sun, 26 Jan 2025 05:00:00 -0000</pubDate>
       <link>https://qmul-jobs.tal.net/vx/candidate/apply/4486?adhoc_referer=jobs.ac.uk</link>
       <guid isPermaLink="false">job-154</guid>
-    </item>
-
-    <item>
-      <title>Director, Research Data Science, AI Innovation - Avidity Biosciences</title>
-      <description><p>We are seeking a hands-on Research Data Science Director with expertise in genomic data science, nucleotide modeling, and RNA therapeutics to join our AI &amp; Machine Learning team. In this role, you will be our technical development lead, leveraging cutting-edge techniques and related deep learning models along with data science methods to analyze complex genomic datasets and siRNA data, advancing the discovery and development of RNA-based therapies.  You will work at the intersection of AI, computational biology, and genomics, collaborating with cross-functional teams to develop and deploy machine learning models that drive innovation in drug discovery and therapeutic design. Reporting directly to the VP of AI/ML, this is a unique opportunity to impact our mission to deliver the next generation of transformative RNA therapeutics to patients. On the AI team at Avidity, everyone is a technical contributor, and you should be excited to build solutions to hard research questions</p>
-<p><strong>Location:</strong> San Diego CA USA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Biomedical</p>
-<p><a href="https://www.aviditybiosciences.com/careers/?p=job/oBTjvfw2">View Job Posting</a></p></description>
-      <pubDate>Sun, 26 Jan 2025 05:00:00 -0000</pubDate>
-      <link>https://www.aviditybiosciences.com/careers/?p=job/oBTjvfw2</link>
-      <guid isPermaLink="false">job-155</guid>
     </item>
 
     <item>
@@ -2063,28 +1777,6 @@ The Head of Data (TransiT) will lead on the hubs data and software applications 
       <pubDate>Mon, 14 Oct 2024 04:00:00 -0000</pubDate>
       <link>https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/AI-Research-Dataset-Creation---Annotation-Manager_24WD82502-1?src=JB-10065&amp;source=LinkedIn</link>
       <guid isPermaLink="false">job-286</guid>
-    </item>
-
-    <item>
-      <title>Associate Director, Bioinformatics - Scribe Therapeutics</title>
-      <description><p>We are seeking a highly creative, passionate, and motivated individual to join us in our quest to develop the next generation of CRISPR-based therapeutics. The current role is for Associate Director, Bioinformatics to join our team and advance our platform. The candidate should have a passion for working collaboratively with biologists and bioengineers to enable building the necessary tools for meeting the new frontier of CRISPR-based therapeutics. Additionally, the candidate would bring expertise in bioinformatics and computational biology to enable data-driven approaches for designing genomic studies, conducting analyses, and interpreting results, and will play a key role in advancing CRISPR-based drug development and therapeutic applications.</p>
-<p><strong>Location:</strong> Alameda CA USA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Biomedical</p>
-<p><a href="https://job-boards.greenhouse.io/scribetherapeutics/jobs/5348081004?gh_src=42f149464us">View Job Posting</a></p></description>
-      <pubDate>Mon, 14 Oct 2024 04:00:00 -0000</pubDate>
-      <link>https://job-boards.greenhouse.io/scribetherapeutics/jobs/5348081004?gh_src=42f149464us</link>
-      <guid isPermaLink="false">job-282</guid>
-    </item>
-
-    <item>
-      <title>Bioinformatics Core Manager/Platform Lead - University of Manitoba</title>
-      <description><p>&#x27;- Meets researchers to discuss and understand their projects requested for consultation.  - Performs study design and sample size calculation, and assists researchers in grant proposal writing.  - Performs quality control of raw omic data, data management, builds customized analysis pipelines, performs data analysis, result interpretation, and writes summaries of data analysis. - Performs bioinformatics analysis for approved projects on a fee-for-service basis. - Coordinates, prepares, and teaches workshops on selected topics to basic and clinical researchers. The workshops will be held 2-4 times a year on 2-4 different topics. Each workshop will be 3 hours with a 1.5-hour theory and 1.5-hour practice sections. Example topics may include applied genomic medicine, bulk/single-cell RNA sequencing data analysis, omics data visualization, pathway and network analysis, R and Python programming for bioinformatics, artificial intelligence for bioinformatics, and training for common bioinformatic tools (e.g., Ingenuity Pathway Analysis).</p>
-<p><strong>Location:</strong> Winnipeg MB CA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Academia, Biomedical, Core Facility</p>
-<p><a href="https://viprecprod.ad.umanitoba.ca/DEFAULT.ASPX?REQ_ID=32215">View Job Posting</a></p></description>
-      <pubDate>Mon, 14 Oct 2024 04:00:00 -0000</pubDate>
-      <link>https://viprecprod.ad.umanitoba.ca/DEFAULT.ASPX?REQ_ID=32215</link>
-      <guid isPermaLink="false">job-287</guid>
     </item>
 
     <item>
@@ -2860,28 +2552,6 @@ Brook is undertaking high-profile initiatives. These include becoming a flagship
     </item>
 
     <item>
-      <title>Research Lead - Fundamental Research in AI for Physical Systems - Alan Turing Institute</title>
-      <description><p>Currently, Turing is undergoing a restructuring, moving towards a challenge-led model with three Grand Challenges (Environment &amp; Sustainability, Health, Defence &amp; National Security). This will be supported by a cross-cutting Fundamental Research in Data Science and Artificial Intelligence priority area. This new Turing 2.0 model focuses on world-class science and innovation and aims to generate high-quality research and translate it into real-world impact and deployment.  We are looking for highly skilled, experienced Research Leads to lead and enable the delivery of this ambitious work, initially centred around developing AI for Physical Systems. Within the Fundamental Research area, we will provide foundational theory, methods and tools to advance the state-of-the art of the use of Artificial Intelligence to model, predict and control physical systems. The aim is to develop the next generation of fundamental ML and AI methods, tools and theory to enable modelling, prediction and control of physical systems. To achieve this, we are creating a multi-disciplinary, mission-driven team which will collaborate with national &amp; international centres of excellence to achieve its goals. Initially, we will be focusing on three strands.</p>
-<p><strong>Location:</strong> London UK</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Nonprofit, IC Leadership</p>
-<p><a href="https://cezanneondemand.intervieweb.it/turing/jobs/research-lead-fundamental-research-in-ai-for-physical-systems-45385/en/">View Job Posting</a></p></description>
-      <pubDate>Sun, 18 Aug 2024 04:00:00 -0000</pubDate>
-      <link>https://cezanneondemand.intervieweb.it/turing/jobs/research-lead-fundamental-research-in-ai-for-physical-systems-45385/en/</link>
-      <guid isPermaLink="false">job-444</guid>
-    </item>
-
-    <item>
-      <title>Research Lead, Machine Learning for Environment and Sustainability - Alan Turing Institute</title>
-      <description><p>Currently, Turing is undergoing a restructuring, moving towards a challenge-led model with three Grand Challenges (Environment &amp; Sustainability, Health, Defence &amp; National Security), underpinned by cross-cutting Fundamental Research. This new Turing 2.0 model focuses on world-class science and innovation and aims to generate high-quality research and translate it into real-world impact and deployment.  In the Environment &amp; Sustainability Grand Challenge, we will use machine learning and AI as a transformative technology to benefit planet and people. The primary purpose of these roles is to lead a team of researchers to conduct internationally leading research and ensure effective pull-through towards impact. The Research Lead will be key to delivering internationally leading research in machine learning for the research areas listed above. This role will be part of the Environment &amp; Sustainability Grand Challenge, and you will be reporting to the mission lead and work closely with other Senior Research Associates, PhD students and interns within the same area. You will be required to manage a small group of Senior Research Associates and other early-career members of the team.</p>
-<p><strong>Location:</strong> London UK</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Nonprofit, IC Leadership, Weather/Climate</p>
-<p><a href="https://cezanneondemand.intervieweb.it/turing/jobs/research-lead-machine-learning-for-environment-and-sustainability-45244/en/">View Job Posting</a></p></description>
-      <pubDate>Sun, 18 Aug 2024 04:00:00 -0000</pubDate>
-      <link>https://cezanneondemand.intervieweb.it/turing/jobs/research-lead-machine-learning-for-environment-and-sustainability-45244/en/</link>
-      <guid isPermaLink="false">job-443</guid>
-    </item>
-
-    <item>
       <title>Research Project Manager - Bristol Centre for Supercomputing - University of Bristol</title>
       <description><p>This role is a key member of the support team for the Bristol Centre for Supercomputing (BriCS) which operates the Isambard-AI, Isambard 3 and High-Performance Computing programmes. In this role you will be providing project management support for current and future projects within BriCS. As our Project Manager, you&#x27;ll play a vital role in supporting groundbreaking initiatives such as Isambard 3, Isambard-AI, and upcoming AI and High-Performance Computing programs. Imagine being at the forefront of innovation, providing essential project management support to our cutting-edge projects.</p>
 <p><strong>Location:</strong> Bristol UK</p>
@@ -2901,17 +2571,6 @@ Brook is undertaking high-profile initiatives. These include becoming a flagship
       <pubDate>Sat, 17 Aug 2024 04:00:00 -0000</pubDate>
       <link>https://jobs.careers.microsoft.com/global/en/job/1752931/Principal-Software-Engineer---HPC-Benchmarking%2C-Applications%2C-and-Workflows</link>
       <guid isPermaLink="false">job-465</guid>
-    </item>
-
-    <item>
-      <title>Research Manager, Foundation Models - Runway</title>
-      <description><p>We’re looking for a Research Manager to help us manage and grow Runway’s Applied ML Research team to create cutting-edge machine learning tools for AI-based content creation. This person should have a strong research background in computer vision, and be deeply interested in managing and enabling other researchers to develop state-of-the-art research.  This is a cross-functional role that requires strong communication and collaboration skills; you will have a chance to work with the rest of the engineering organization to oversee the transition from research into production, as well as with the Product team to initiate and develop research projects that deliver clear user value.</p>
-<p><strong>Location:</strong> Remote USA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Project/Program Manager</p>
-<p><a href="https://job-boards.greenhouse.io/runwayml/jobs/4015520005">View Job Posting</a></p></description>
-      <pubDate>Sat, 17 Aug 2024 04:00:00 -0000</pubDate>
-      <link>https://job-boards.greenhouse.io/runwayml/jobs/4015520005</link>
-      <guid isPermaLink="false">job-454</guid>
     </item>
 
     <item>
@@ -3088,17 +2747,6 @@ Brook is undertaking high-profile initiatives. These include becoming a flagship
       <pubDate>Mon, 22 Jul 2024 04:00:00 -0000</pubDate>
       <link>https://profoundmedical.bamboohr.com/careers/161</link>
       <guid isPermaLink="false">job-526</guid>
-    </item>
-
-    <item>
-      <title>Lead Research Software Engineer, Princeton Language and Intelligence - Princeton University</title>
-      <description><p>This multidisciplinary initiative has three Research thrusts: (a) Better design, evaluation, safety and understanding of large AI models (especially language models); (b) Applications of large AI models to many academic disciplines; and (c) Studying the impact of large AI models on society and the world. The Initiative will produce open-source software and models.   In this position, you will be a lead and integral member of dynamic research teams focused on building innovative and complete software solutions for cutting-edge AI research and making fundamental contributions to AI projects with Princeton’s world-class researchers. As a Lead RSE, you will oversee a team of Research Software Engineers working on varied engineering solutions associated with large AI models. You will bring your advanced technical knowledge and project management experience to raise the computational capability of the team and translate key PLI priorities into engineering solutions.</p>
-<p><strong>Location:</strong> Princeton NJ USA</p>
-<p><strong>Categories:</strong> Academia, IC Leadership, Software Development</p>
-<p><a href="https://main-princeton.icims.com/jobs/19506/lead-research-software-engineer/job?mode=view&amp;mobile=false&amp;width=1110&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-300&amp;jun1offset=-240">View Job Posting</a></p></description>
-      <pubDate>Fri, 19 Jul 2024 04:00:00 -0000</pubDate>
-      <link>https://main-princeton.icims.com/jobs/19506/lead-research-software-engineer/job?mode=view&amp;mobile=false&amp;width=1110&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-300&amp;jun1offset=-240</link>
-      <guid isPermaLink="false">job-532</guid>
     </item>
 
     <item>
@@ -3609,17 +3257,6 @@ Make the choice to join NVIDIA today and shape the future of AI computing!</p>
     </item>
 
     <item>
-      <title>Research Manager, Foundation Models - Runway</title>
-      <description><p>We’re looking for a Research Manager to help us manage and grow Runway’s Applied ML Research team to create cutting-edge machine learning tools for AI-based content creation. This person should have a strong research background in computer vision, and be deeply interested in managing and enabling other researchers to develop state-of-the-art research.</p>
-<p><strong>Location:</strong> Remote USA</p>
-<p><strong>Categories:</strong> Computer Vision, Data Science/ML/AI, Industry</p>
-<p><a href="https://boards.greenhouse.io/runwayml/jobs/4015520005?source=LinkedIn">View Job Posting</a></p></description>
-      <pubDate>Sat, 08 Jun 2024 04:00:00 -0000</pubDate>
-      <link>https://boards.greenhouse.io/runwayml/jobs/4015520005?source=LinkedIn</link>
-      <guid isPermaLink="false">job-655</guid>
-    </item>
-
-    <item>
       <title>Research Team Manager, Alzheimer Disease Centre - University of Washington</title>
       <description><p>Directly supervises all staff in the Research Support Group (i.e., Research Scientists and Research Consultants); setting annual performance goals for professional development while factoring NACC’s annual programmatic and project goals; meeting regularly with staff to promote and monitor work.</p>
 <p><strong>Location:</strong> Seattle WA USA</p>
@@ -3738,17 +3375,6 @@ Make the choice to join NVIDIA today and shape the future of AI computing!</p>
       <pubDate>Sat, 25 May 2024 04:00:00 -0000</pubDate>
       <link>https://daiichisankyo.wd1.myworkdayjobs.com/en-US/DSI/job/Remote-by-Design-Home-Office/Associate-Director-Data-Science--Data-and-Statistical-Science-AI-ML_R3272?source=LinkedIn</link>
       <guid isPermaLink="false">job-688</guid>
-    </item>
-
-    <item>
-      <title>Director of Delivery Infrastructure - Alan Turing Institute</title>
-      <description><p>The Institute is seeking to recruit an experienced individual to a senior leadership role who will have ultimate responsibility for the Science and Innovation delivery infrastructure for the Institute and be a key member of the Executive Leadership Team. The postholder, with support from the CEO, Chief Scientist and other members of the Executive Leadership Team (ELT) will work closely with the Infrastructure Directors and other management teams to align potential transformations in these areas with the Turing’s strategy. The postholder will contribute to ensuring the Institute meets its key strategic missions and will sit on the Executive Leadership Team, reporting to the CEO.</p>
-<p><strong>Location:</strong> London UK</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, HPC, Nonprofit, Data Management/Governance, Ops/Automation, Software Development</p>
-<p><a href="https://cezanneondemand.intervieweb.it/turing/jobs/director-of-delivery-infrastructure-42872/en/">View Job Posting</a></p></description>
-      <pubDate>Sat, 25 May 2024 04:00:00 -0000</pubDate>
-      <link>https://cezanneondemand.intervieweb.it/turing/jobs/director-of-delivery-infrastructure-42872/en/</link>
-      <guid isPermaLink="false">job-690</guid>
     </item>
 
     <item>
@@ -4156,17 +3782,6 @@ We want to empower every department and every person to achieve more using data 
     </item>
 
     <item>
-      <title>Technical Lead (Human Genome Informatics) - Australian BioCommons - University of Melbourne</title>
-      <description><p>The Technical Lead will drive the design and implementation of large-scale digital platforms to transform human genomics data management in Australia, aiming to advance human health and biomedicine. A major focus of this role will be collaboration with national and international medical research organisations and infrastructure providers.</p>
-<p><strong>Location:</strong> Melbourne VIC AU</p>
-<p><strong>Categories:</strong> Academia, IC Leadership, Biomedical</p>
-<p><a href="https://jobs.unimelb.edu.au/en/job/916429/technical-lead-human-genome-informatics-australian-biocommons">View Job Posting</a></p></description>
-      <pubDate>Sat, 23 Mar 2024 04:00:00 -0000</pubDate>
-      <link>https://jobs.unimelb.edu.au/en/job/916429/technical-lead-human-genome-informatics-australian-biocommons</link>
-      <guid isPermaLink="false">job-780</guid>
-    </item>
-
-    <item>
       <title>Principal Technical Program Manager, Azure HPC &amp; AI - Microsoft</title>
       <description><p>The Azure High Performance Computing &amp; Artificial Intelligence (HPC &amp; AI) product team drives the hardware roadmap, software, and services that enable our users to run technical computing workloads in Azure - HPC simulations, AI &amp; machine learning, remote visualization, and immersive gaming experiences. We are responsible for providing Azure customers with supercomputer-class capabilities to accelerate their research, drive competitive differentiation, and finding answers to some of the most difficult questions of science, industry, and entertainment.  We are looking for a Principal Technical Program Manager.</p>
 <p><strong>Location:</strong> Redmond WA USA</p>
@@ -4287,19 +3902,6 @@ You will engage with researchers to understand their technology needs, translate
       <pubDate>Sat, 03 Feb 2024 05:00:00 -0000</pubDate>
       <link>https://apply.interfolio.com/123835</link>
       <guid isPermaLink="false">job-815</guid>
-    </item>
-
-    <item>
-      <title>Research Director - Runway</title>
-      <description><p>We’re looking for a Research Director to help us manage and grow Runway’s Applied ML Research team to create cutting-edge machine learning tools for AI-based content creation. This person should have a strong research background in computer vision, and be deeply interested in managing and enabling other researchers to develop state-of-the-art research.
-
-This is a cross-functional role that requires strong communication and collaboration skills; you will have a chance to work with the rest of the engineering organization to oversee the transition from research into production, as well as with the Product team to initiate and develop research projects that deliver clear user value.</p>
-<p><strong>Location:</strong> Remote</p>
-<p><strong>Categories:</strong> Computer Vision, Industry</p>
-<p><a href="https://boards.greenhouse.io/runwayml/jobs/4015520005">View Job Posting</a></p></description>
-      <pubDate>Sat, 03 Feb 2024 05:00:00 -0000</pubDate>
-      <link>https://boards.greenhouse.io/runwayml/jobs/4015520005</link>
-      <guid isPermaLink="false">job-816</guid>
     </item>
 
   </channel>
