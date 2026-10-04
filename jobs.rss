@@ -8,20 +8,7 @@
     <description>Active job postings for research computing team leaders and managers</description>
     <link>https://www.researchcomputingteams.org/jobs</link>
     <atom:link href="https://www.researchcomputingteams.org/jobs.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 04 Aug 2026 19:17:38 -0000</lastBuildDate>
-
-    <item>
-      <title>Manager, Computational Scientific Programming, Research Computing - Empire AI</title>
-      <description>&lt;p&gt;Empire AI is establishing New York as the national leader in responsible artificial intelligence. Backed by a consortium of top academic and research institutions including Columbia, Cornell, NYU, CUNY, RPI, SUNY, Rochester Schools, Mount Sinai, Simons Foundation, and the Flatiron Institute. By leveraging the state’s rich academic resources and research institutions, Empire AI is driving innovation in fields like medicine, education, energy, and climate change, all while giving New York’s researchers access to computing resources that are often prohibitively expensive and only available to big tech companies, fueling statewide innovation, driving economic growth, and preparing a future-ready AI workforce to tackle society’s most complex challenges.
-
-The Manager, Research Software Engineering will support AI-driven research across New York State’s public and private research institutions. This position serves as a key technical partner to researchers leveraging Empire AI’s shared infrastructure for machine learning, simulation, data science, and secure computing. Reporting to the Director, AI Research Computing, the Manager, Research Software Engineering (AI Focus) will work directly with faculty, postdocs, and graduate students to design, optimize, and scale computational workflows that span disciplines—from foundational AI model development to large-scale simulations in biomedicine, climate, and materials science. The role also contributes to strategic initiatives in support of workforce development, proposal writing, and infrastructure planning.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; New York City NY USA&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Data Science/ML/AI, Academia, IC Leadership, Software Development&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/jobs/view/4370561599&quot;&gt;View Job Posting&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 05:00:00 -0000</pubDate>
-      <link>https://www.linkedin.com/jobs/view/4370561599</link>
-      <guid isPermaLink="false">job-3520</guid>
-    </item>
+    <lastBuildDate>Sun, 04 Oct 2026 18:57:51 -0000</lastBuildDate>
 
     <item>
       <title>Workloads and Benchmarking Team Lead - Microsoft</title>
@@ -32,17 +19,6 @@ The Manager, Research Software Engineering will support AI-driven research acros
       <pubDate>Sat, 17 Jan 2026 05:00:00 -0000</pubDate>
       <link>https://apply.careers.microsoft.com/careers/job/1970393556654063?domain=microsoft.com</link>
       <guid isPermaLink="false">job-3505</guid>
-    </item>
-
-    <item>
-      <title>HPC Storage Systems Team Lead - Argonne National Laboratory</title>
-      <description>&lt;p&gt;The HPC Storage Systems Team Lead provides team leadership and overall technical planning for projects related to the HPC Storage team of the Argonne Leadership Computing Facility (ALCF). This role involves: The technical operation, administration, and maintenance of hardware and software components of disk storage and file systems for the facility’s supercomputing resources. The team lead will also lead efforts in the design and planning for future machine upgrades and recommend improved approaches for providing disk storage and file system services. Provide rigorous oversight of design, testing, and deployment for storage solutions while mentoring team members and stakeholders on emerging storage technologies.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Lemont IL USA&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; HPC, Storage, Public sector, IC Leadership&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/HPC-Storage-Systems-Team-Lead_421536&quot;&gt;View Job Posting&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 05:00:00 -0000</pubDate>
-      <link>https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/HPC-Storage-Systems-Team-Lead_421536</link>
-      <guid isPermaLink="false">job-3502</guid>
     </item>
 
     <item>

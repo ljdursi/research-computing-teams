@@ -1,37 +1,7 @@
 {
-  "generated": "2026-08-04T15:17:38.576978",
-  "count": 4,
+  "generated": "2026-10-04T14:57:51.781670",
+  "count": 2,
   "jobs": [
-    {
-      "id": 3520,
-      "title": "Manager, Computational Scientific Programming, Research Computing",
-      "company": "Empire AI",
-      "location": "New York City NY USA",
-      "city": "New York City",
-      "state": "NY",
-      "country": "USA",
-      "description": "Empire AI is establishing New York as the national leader in responsible artificial intelligence. Backed by a consortium of top academic and research institutions including Columbia, Cornell, NYU, CUNY, RPI, SUNY, Rochester Schools, Mount Sinai, Simons Foundation, and the Flatiron Institute. By leveraging the state’s rich academic resources and research institutions, Empire AI is driving innovation in fields like medicine, education, energy, and climate change, all while giving New York’s researchers access to computing resources that are often prohibitively expensive and only available to big tech companies, fueling statewide innovation, driving economic growth, and preparing a future-ready AI workforce to tackle society’s most complex challenges.\r\n\r\nThe Manager, Research Software Engineering will support AI-driven research across New York State’s public and private research institutions. This position serves as a key technical partner to researchers leveraging Empire AI’s shared infrastructure for machine learning, simulation, data science, and secure computing. Reporting to the Director, AI Research Computing, the Manager, Research Software Engineering (AI Focus) will work directly with faculty, postdocs, and graduate students to design, optimize, and scale computational workflows that span disciplines—from foundational AI model development to large-scale simulations in biomedicine, climate, and materials science. The role also contributes to strategic initiatives in support of workforce development, proposal writing, and infrastructure planning.",
-      "url": "https://www.linkedin.com/jobs/view/4370561599",
-      "posted": "2026-02-09",
-      "categories": [
-        "Data Science/ML/AI",
-        "Academia",
-        "IC Leadership",
-        "Software Development"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Data Science/ML/AI",
-          "Software Development"
-        ],
-        "sector": [
-          "Academia"
-        ],
-        "role": [
-          "IC Leadership"
-        ]
-      }
-    },
     {
       "id": 3505,
       "title": "Workloads and Benchmarking Team Lead",
@@ -58,36 +28,6 @@
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "IC Leadership"
-        ]
-      }
-    },
-    {
-      "id": 3502,
-      "title": "HPC Storage Systems Team Lead",
-      "company": "Argonne National Laboratory",
-      "location": "Lemont IL USA",
-      "city": "Lemont",
-      "state": "IL",
-      "country": "USA",
-      "description": "The HPC Storage Systems Team Lead provides team leadership and overall technical planning for projects related to the HPC Storage team of the Argonne Leadership Computing Facility (ALCF). This role involves: The technical operation, administration, and maintenance of hardware and software components of disk storage and file systems for the facility’s supercomputing resources. The team lead will also lead efforts in the design and planning for future machine upgrades and recommend improved approaches for providing disk storage and file system services. Provide rigorous oversight of design, testing, and deployment for storage solutions while mentoring team members and stakeholders on emerging storage technologies.",
-      "url": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/HPC-Storage-Systems-Team-Lead_421536",
-      "posted": "2026-01-06",
-      "categories": [
-        "HPC",
-        "Storage",
-        "Public sector",
-        "IC Leadership"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "HPC",
-          "Storage"
-        ],
-        "sector": [
-          "Public sector"
         ],
         "role": [
           "IC Leadership"
