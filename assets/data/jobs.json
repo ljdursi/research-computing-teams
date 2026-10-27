@@ -1,7 +1,171 @@
 {
-  "generated": "2026-10-04T17:07:09.843668",
-  "count": 29,
+  "generated": "2026-10-27T15:50:23.186145",
+  "count": 25,
   "jobs": [
+    {
+      "id": 3550,
+      "title": "Ecosystem Lead (Senior Research Fellow)",
+      "company": "Queen's University Belfast",
+      "location": "Belfast UK",
+      "city": "Belfast",
+      "state": "",
+      "country": "UK",
+      "description": "The Ecosystem Lead will make an instrumental contribution to FortranFuture’s work on bringing together the global ecosystem, fore-sighting possible futures for the ecosystem, roadmapping expected opportunities and challenges, and establishing a sustainable community and research network for beyond the funded life-time of the project, as well as contributing (where appropriate) to the strategic oversight and allocation of approx. £450K flexible funding and securing future funding. The Ecosystem Lead will work closely with the Project Lead and Co-lead, other research colleagues, the project manager and other professional services (e.g., in the Centre for Intelligent Sustainable Computing and the School of Electronics, Electrical Engineering and Computer Science) and with the Accountability and Advisory Board.",
+      "url": "https://www.jobs.ac.uk/job/DTD796/ecosystem-lead-senior-research-fellow-06-fte",
+      "posted": "2026-10-27",
+      "categories": [
+        "Academia",
+        "Project/Program Manager",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "Project/Program Manager"
+        ],
+        "technical": [
+          "Software Development"
+        ]
+      }
+    },
+    {
+      "id": 3552,
+      "title": "Lead Airborne Systems - Software Engineer IV",
+      "company": "NCAR",
+      "location": "Broomfield CO USA",
+      "city": "Broomfield",
+      "state": "CO",
+      "country": "USA",
+      "description": "This position is the primary technical authority and team lead, shaping the architecture, data quality pipelines, hardware-level driver integrations, cybersecurity posture, and for the real-time execution of all airborne data acquisition, processing, and cabin visualization systems. Supervise and mentor a team of software engineers and data managers. Assign work, set technical standards, review code quality, conduct performance evaluations, and drive team adoption of modern software engineering practices (CI/CD, automated testing, revision control).",
+      "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Broomfield-CO/Lead-Airborne-Systems---Software-Engineer-IV_REQ-2026-177-1",
+      "posted": "2026-10-27",
+      "categories": [
+        "Data Systems",
+        "Academia",
+        "IC Leadership",
+        "Software Development",
+        "Weather/Climate"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Systems",
+          "Software Development"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "IC Leadership"
+        ],
+        "domain": [
+          "Weather/Climate"
+        ]
+      }
+    },
+    {
+      "id": 3553,
+      "title": "Lead, Geospatial Artificial Intelligence and Machine Learning",
+      "company": "Yale University",
+      "location": "New Haven CT USA",
+      "city": "New Haven",
+      "state": "CT",
+      "country": "USA",
+      "description": "As a key member of the YCGS team and of the Yale community carrying out this mission, the GAI Lead will be a knowledgeable AI enthusiast capable of building out a support program and of consulting with, and training faculty and staff to use emerging AI and ML tools as inputs into their work. This work will span applied GeoAI and machine learning for spatial research and applications, including remote sensing and computer vision, geospatial foundation models, LLM-enabled research workflows, API-based data and model integration, model selection, tuning, evaluation, and deployment, as well as other algorithmic methods needed to support rigorous, secure, and reproducible geospatial analysis. The AI lead must also be able to advise on public vs private models and how to work in secure environments.",
+      "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138060WDEXTERNALENUS/Lead-Geospatial-Artificial-Intelligence-and-Machine-Learning",
+      "posted": "2026-10-27",
+      "categories": [
+        "Computer Vision",
+        "Data Science/ML/AI",
+        "Natural Language Processing",
+        "Academia",
+        "IC Leadership",
+        "Support",
+        "Geospatial"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Computer Vision",
+          "Data Science/ML/AI",
+          "Natural Language Processing",
+          "Support"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "IC Leadership"
+        ],
+        "domain": [
+          "Geospatial"
+        ]
+      }
+    },
+    {
+      "id": 3551,
+      "title": "Senior Software Engineering Department Manager",
+      "company": "University of Colorado",
+      "location": "Boulder CO USA",
+      "city": "Boulder",
+      "state": "CO",
+      "country": "USA",
+      "description": "You will lead the department through its functional leads, set its technical direction, and own how LASP develops and verifies software, bringing a mission-level perspective to LASP's software strategy. LASP is looking for a Senior Software Engineering Department Manager to lead the 63-person department that delivers flight and ground software for LASP's space missions and science instruments.",
+      "url": "https://jobs.colorado.edu/jobs/JobDetail/Senior-Software-Engineering-Department-Manager/75504",
+      "posted": "2026-10-27",
+      "categories": [
+        "Academia",
+        "IC Leadership",
+        "Software Development",
+        "Astro"
+      ],
+      "categoryTypes": {
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "IC Leadership"
+        ],
+        "technical": [
+          "Software Development"
+        ],
+        "domain": [
+          "Astro"
+        ]
+      }
+    },
+    {
+      "id": 3549,
+      "title": "HPC & AI Workload Management Team Lead (HPC Engineer 2/3)",
+      "company": "Los Alamos National Laboratory",
+      "location": "Los Alamos NM USA",
+      "city": "Los Alamos",
+      "state": "NM",
+      "country": "USA",
+      "description": "As a member of a small team, you will play a direct role in operating production systems, managing HPC scheduling and resource allocation, and improving system reliability and efficiency. We are a small team, and each member plays a direct role in operating our production systems. We are seeking an experienced professional in HPC scheduling and resource management to lead the team in ensuring the reliable operation of our production systems, which include:",
+      "url": "https://lanl.jobs/search/jobdetails/hpc--ai-workload-management-team-lead-hpc-engineer-23/9b4f3de1-58ec-448d-b74e-b788f059c17a",
+      "posted": "2026-10-09",
+      "categories": [
+        "Data Science/ML/AI",
+        "HPC",
+        "Public sector",
+        "IC Leadership",
+        "Ops/Automation"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "HPC",
+          "Ops/Automation"
+        ],
+        "sector": [
+          "Public sector"
+        ],
+        "role": [
+          "IC Leadership"
+        ]
+      }
+    },
     {
       "id": 3526,
       "title": "Associate Chief Information Officer, Research Information Technology",
@@ -61,38 +225,6 @@
         ],
         "role": [
           "IC Leadership"
-        ]
-      }
-    },
-    {
-      "id": 3541,
-      "title": "Associate Director, Digital Scientific Workflows",
-      "company": "Merck",
-      "location": "Various USA",
-      "city": "",
-      "state": "",
-      "country": "USA",
-      "description": "The candidate will be tasked with solving complex business workflows, data capture, analysis, and visualization challenges in an interdisciplinary, collaborative environment using cutting-edge digital technologies.",
-      "url": "https://jobs.merck.com/us/en/job/MERCUSR418678ENUS/Associate-Director-Digital-Scientific-Workflows",
-      "posted": "2026-10-04",
-      "categories": [
-        "Industry",
-        "Data Management/Governance",
-        "IC Leadership",
-        "Biomedical"
-      ],
-      "categoryTypes": {
-        "sector": [
-          "Industry"
-        ],
-        "technical": [
-          "Data Management/Governance"
-        ],
-        "role": [
-          "IC Leadership"
-        ],
-        "domain": [
-          "Biomedical"
         ]
       }
     },
@@ -233,42 +365,6 @@
       }
     },
     {
-      "id": 3527,
-      "title": "Bioinformatics platform manager",
-      "company": "New Brunswick Institute of Health Research",
-      "location": "Moncton NB CA",
-      "city": "Moncton",
-      "state": "NB",
-      "country": "Canada",
-      "description": "The platform manager will perform their duties in line with their expertise for the coordination and planning of research and operational activities at the NB-IHR bioinformatics platform. Management and quality checks of data generated through collaboration with in-house PIs, other technological platforms, outside clients or large consortia in which NB-IRS participates. Scheduling service and maintenance of servers and other technology at the platform. Coordinating with partner organizations (Vitalité, UMoncton) when servicing, networking or acquiring technology to ensure smooth operations.",
-      "url": "https://bioinformatics.ca/jobs/bioinformatics-platform-manager/",
-      "posted": "2026-10-04",
-      "categories": [
-        "Academia",
-        "Data Management/Governance",
-        "IC Leadership",
-        "Software Development",
-        "Biomedical",
-        "Core Facility"
-      ],
-      "categoryTypes": {
-        "sector": [
-          "Academia"
-        ],
-        "technical": [
-          "Data Management/Governance",
-          "Software Development"
-        ],
-        "role": [
-          "IC Leadership"
-        ],
-        "domain": [
-          "Biomedical",
-          "Core Facility"
-        ]
-      }
-    },
-    {
       "id": 3523,
       "title": "Data & AI Services Group Lead",
       "company": "Berkeley Lab",
@@ -403,74 +499,6 @@
       }
     },
     {
-      "id": 3534,
-      "title": "Engineering Manager, GPU Infrastructure",
-      "company": "Cohere",
-      "location": "San Francisco CA USA or Canada",
-      "city": "San Francisco CA USA or",
-      "state": "",
-      "country": "Canada",
-      "description": "The GPU Clusters team builds and operates the superclusters that train Cohere’s frontier models. We sit at the intersection of hardware, distributed systems, and AI research. We work with cloud providers, researchers, and other infrastructure teams on problems few companies get to take on. As an Engineering Manager, you’ll lead a team of engineers who care deeply about GPU infrastructure. You’ll set technical direction, grow people, and help the company scale a rapidly growing compute footprint.",
-      "url": "https://jobs.ashbyhq.com/cohere/28239d75-5dd9-41fb-ba43-cb08b491be2b?utm_source=jKNDxYPz51",
-      "posted": "2026-10-04",
-      "categories": [
-        "Cloud",
-        "Data Science/ML/AI",
-        "HPC",
-        "Industry",
-        "IC Leadership",
-        "Ops/Automation"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Cloud",
-          "Data Science/ML/AI",
-          "HPC",
-          "Ops/Automation"
-        ],
-        "sector": [
-          "Industry"
-        ],
-        "role": [
-          "IC Leadership"
-        ]
-      }
-    },
-    {
-      "id": 3537,
-      "title": "Engineering Manager, Rosalind Workbench",
-      "company": "OpenAI",
-      "location": "San Francisco CA USA",
-      "city": "San Francisco",
-      "state": "CA",
-      "country": "USA",
-      "description": "We’re looking for an Engineering Manager to lead the team building Rosalind Workbench and its supporting infrastructure. You’ll hire and develop engineers, set technical direction, and turn an ambitious product roadmap into focused, reliable releases. This is a hands-on leadership role. You should be comfortable reviewing architecture and code, investigating difficult failures, and helping engineers make consequential technical decisions. You’ll work closely with product, design, research, Codex engineering, and customer-facing teams to bring new scientific capabilities into everyday use.",
-      "url": "https://jobs.ashbyhq.com/openai/4ca2e49f-83bb-4276-be17-d85a9a0c58e9",
-      "posted": "2026-10-04",
-      "categories": [
-        "Data Science/ML/AI",
-        "Industry",
-        "IC Leadership",
-        "Software Development",
-        "Biomedical"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Data Science/ML/AI",
-          "Software Development"
-        ],
-        "sector": [
-          "Industry"
-        ],
-        "role": [
-          "IC Leadership"
-        ],
-        "domain": [
-          "Biomedical"
-        ]
-      }
-    },
-    {
       "id": 3545,
       "title": "Group Leader, Quantum HPC Group",
       "company": "Oak Ridge National Laboratory",
@@ -497,38 +525,6 @@
         ],
         "role": [
           "IC Leadership"
-        ]
-      }
-    },
-    {
-      "id": 3528,
-      "title": "Head of Agentic AI and Data Science Research",
-      "company": "Financial Conduct Authority",
-      "location": "London UK",
-      "city": "London",
-      "state": "",
-      "country": "UK",
-      "description": "The Head of Agentic AI and Data Science Research leads the FCA's capability at the frontier of applied AI, ensuring the organisation not only adopts emerging technologies but understands, shapes and governs them in a way that supports its public interest objectives. It provides strategic leadership for AI research, model governance, data science capability, and horizon scanning. The role owns the FCA's medium and longer-term AI agenda, translating emerging opportunities and risks into actionable strategies, governance frameworks and capability roadmaps. It also leads the FCA Data Science Profession and provides technical thought leadership to senior decision-makers across the organisation and wider regulatory, and technology stakeholder communities.",
-      "url": "https://fca.wd3.myworkdayjobs.com/FCA_Careers/job/London/Head-of-Agentic-AI-and-Data-Science-Research_JR0022311-2",
-      "posted": "2026-10-04",
-      "categories": [
-        "Data Science/ML/AI",
-        "Finance",
-        "Public sector",
-        "Executive"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Data Science/ML/AI"
-        ],
-        "domain": [
-          "Finance"
-        ],
-        "sector": [
-          "Public sector"
-        ],
-        "role": [
-          "Executive"
         ]
       }
     },
@@ -751,42 +747,6 @@
       }
     },
     {
-      "id": 3529,
-      "title": "Senior Technical Lead",
-      "company": "University of Toronto",
-      "location": "Toronto ON CA",
-      "city": "Toronto",
-      "state": "ON",
-      "country": "Canada",
-      "description": "The Senior Technical Lead role acts at the department's senior researchcomputing and enterprise IT lead supporting both advanced scientific computing and administrative digital transformation, including safe AI technologies. The successful candidate will provide technical leadership and specialized expertise in research computing infrastructure, systems and network administration, programming, automation, enterprise applications, and business systems analysis within a complex and evolving academic research environment.The role will lead all departmental cybersecurity initiatives including risk assessments, vulnerability mitigation, secure system design, identity and access management, incident response coordination, and alignment with evolving and strengthened University security standards. Working closely with faculty, students, and staff, you will support all research groups by serving as the department’s primary technical advisor and institutional IT liaison for research computing, consulting and partnering with faculty and research teams to design and/or adopt scalable, secure, and reproducible computational research environments throughout the research lifecycle.",
-      "url": "https://jobs.utoronto.ca/job/Toronto-Senior-Technical-Lead-ON/606331117/",
-      "posted": "2026-10-04",
-      "categories": [
-        "HPC",
-        "Academia",
-        "IC Leadership",
-        "Ops/Automation",
-        "Software Development",
-        "Biomedical"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "HPC",
-          "Ops/Automation",
-          "Software Development"
-        ],
-        "sector": [
-          "Academia"
-        ],
-        "role": [
-          "IC Leadership"
-        ],
-        "domain": [
-          "Biomedical"
-        ]
-      }
-    },
-    {
       "id": 3546,
       "title": "Senior Technical Program Manager - Quantum Computing, Amazon Braket",
       "company": "Amazon",
@@ -813,102 +773,6 @@
         ],
         "role": [
           "Project/Program Manager"
-        ]
-      }
-    },
-    {
-      "id": 3543,
-      "title": "Senior Technical Program Manager, Quantum Computing Applied Research",
-      "company": "NVIDIA",
-      "location": "Redmond WA USA",
-      "city": "Redmond",
-      "state": "WA",
-      "country": "USA",
-      "description": "We are seeking a Senior Technical Program Manager to lead high-impact strategic R&D initiatives within quantum computing. You will lead across our applied research R&D roadmap to craft clarity and success. Initiate and lead multiple concurrent technical programs across our quantum computing portfolio, with emphasis on bringing the full power of accelerated computing to the field. Serve as a link between research and engineering, moving new technologies from incubation to scalable solutions.",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Technical-Program-Manager--Quantum-Computing-Applied-Research_JR2025114",
-      "posted": "2026-10-04",
-      "categories": [
-        "Quantum Computing",
-        "Industry",
-        "Project/Program Manager"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Quantum Computing"
-        ],
-        "sector": [
-          "Industry"
-        ],
-        "role": [
-          "Project/Program Manager"
-        ]
-      }
-    },
-    {
-      "id": 3538,
-      "title": "Sr. AI Science Lead",
-      "company": "Lilly",
-      "location": "South San Francisco CA USA",
-      "city": "South San Francisco",
-      "state": "CA",
-      "country": "USA",
-      "description": "As a Senior AI Science Lead, you will set scientific direction and technical strategy for large-scale AI research programs that advance drug discovery. You will lead a team of AI scientists and AI engineers while driving major initiatives across computational chemistry, computational genomics, and related domains, ensuring alignment between scientific priorities and organizational goals. In partnership with Lilly Research Labs and engineering and technology leaders, you will transform cutting-edge research into scalable capabilities that accelerate scientific impact.",
-      "url": "https://careers.lilly.com/us/en/job/LILLUSR110899EXTERNALENUS/Sr-AI-Science-Lead",
-      "posted": "2026-10-04",
-      "categories": [
-        "Data Science/ML/AI",
-        "Deep Learning",
-        "HPC",
-        "Industry",
-        "IC Leadership",
-        "Biomedical"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Data Science/ML/AI",
-          "Deep Learning",
-          "HPC"
-        ],
-        "sector": [
-          "Industry"
-        ],
-        "role": [
-          "IC Leadership"
-        ],
-        "domain": [
-          "Biomedical"
-        ]
-      }
-    },
-    {
-      "id": 3505,
-      "title": "Workloads and Benchmarking Team Lead",
-      "company": "Microsoft",
-      "location": "Remote USA",
-      "city": "",
-      "state": "",
-      "country": "USA",
-      "description": "As the Workloads and Benchmarking Team Lead, you will lead the Specialized Workloads and Benchmarking group, owning the strategy and execution of benchmarking for Azure HPC and AI infrastructure. You will develop deep expertise in HPC and AI workloads, define representative and credible benchmarking methodologies, and drive external publication of results that influence customer adoption and internal platform design. This role combines hands-on technical leadership with people management, including coaching, mentoring, and growing a high-performing team of engineers.",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556654063?domain=microsoft.com",
-      "posted": "2026-01-17",
-      "categories": [
-        "Cloud",
-        "HPC",
-        "Industry",
-        "IC Leadership",
-        "Software Development"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Cloud",
-          "HPC",
-          "Software Development"
-        ],
-        "sector": [
-          "Industry"
-        ],
-        "role": [
-          "IC Leadership"
         ]
       }
     },
