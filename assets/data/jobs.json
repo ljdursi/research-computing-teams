@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T11:27:24.910745",
-  "count": 23,
+  "generated": "2026-11-08T11:35:13.099466",
+  "count": 24,
   "jobs": [
     {
       "id": 3554,
@@ -29,6 +29,42 @@
         ],
         "role": [
           "IC Leadership"
+        ]
+      }
+    },
+    {
+      "id": 3555,
+      "title": "Director, Research Computing, Data & Technology",
+      "company": "Harvard Pilgrim Health Care Institute",
+      "location": "Boston MA USA",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA",
+      "description": "This individual is responsible for developing and executing the Institute's research technology strategy and oversight of research computing, research technology, data enablement, and related support staff. The position directly supervises a team of four and is expected to provide leadership and oversight for research technology initiatives, including evaluating and, where warranted, redesigning the roles, structure, and responsibilities of this team to align with the Institute's research technology strategy. Key Responsibilties/Duties: Provide strategic leadership and maintain a multi-year roadmap for research computing, data management, analytics, AI, and digital research enablement.",
+      "url": "https://point32health.wd5.myworkdayjobs.com/en-US/THP/details/Director--Research--Computing--Data---Technology_R9552",
+      "posted": "2026-11-08",
+      "categories": [
+        "Cloud",
+        "HPC",
+        "Nonprofit",
+        "Data Management/Governance",
+        "Biomedical",
+        "People Manager"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "HPC",
+          "Data Management/Governance"
+        ],
+        "sector": [
+          "Nonprofit"
+        ],
+        "domain": [
+          "Biomedical"
+        ],
+        "role": [
+          "People Manager"
         ]
       }
     },
