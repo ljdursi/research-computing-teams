@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-27T15:50:23.186145",
-  "count": 25,
+  "generated": "2026-11-08T11:14:03.864239",
+  "count": 22,
   "jobs": [
     {
       "id": 3550,
@@ -27,40 +27,6 @@
         ],
         "technical": [
           "Software Development"
-        ]
-      }
-    },
-    {
-      "id": 3552,
-      "title": "Lead Airborne Systems - Software Engineer IV",
-      "company": "NCAR",
-      "location": "Broomfield CO USA",
-      "city": "Broomfield",
-      "state": "CO",
-      "country": "USA",
-      "description": "This position is the primary technical authority and team lead, shaping the architecture, data quality pipelines, hardware-level driver integrations, cybersecurity posture, and for the real-time execution of all airborne data acquisition, processing, and cabin visualization systems. Supervise and mentor a team of software engineers and data managers. Assign work, set technical standards, review code quality, conduct performance evaluations, and drive team adoption of modern software engineering practices (CI/CD, automated testing, revision control).",
-      "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Broomfield-CO/Lead-Airborne-Systems---Software-Engineer-IV_REQ-2026-177-1",
-      "posted": "2026-10-27",
-      "categories": [
-        "Data Systems",
-        "Academia",
-        "IC Leadership",
-        "Software Development",
-        "Weather/Climate"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Data Systems",
-          "Software Development"
-        ],
-        "sector": [
-          "Academia"
-        ],
-        "role": [
-          "IC Leadership"
-        ],
-        "domain": [
-          "Weather/Climate"
         ]
       }
     },
@@ -99,38 +65,6 @@
         ],
         "domain": [
           "Geospatial"
-        ]
-      }
-    },
-    {
-      "id": 3551,
-      "title": "Senior Software Engineering Department Manager",
-      "company": "University of Colorado",
-      "location": "Boulder CO USA",
-      "city": "Boulder",
-      "state": "CO",
-      "country": "USA",
-      "description": "You will lead the department through its functional leads, set its technical direction, and own how LASP develops and verifies software, bringing a mission-level perspective to LASP's software strategy. LASP is looking for a Senior Software Engineering Department Manager to lead the 63-person department that delivers flight and ground software for LASP's space missions and science instruments.",
-      "url": "https://jobs.colorado.edu/jobs/JobDetail/Senior-Software-Engineering-Department-Manager/75504",
-      "posted": "2026-10-27",
-      "categories": [
-        "Academia",
-        "IC Leadership",
-        "Software Development",
-        "Astro"
-      ],
-      "categoryTypes": {
-        "sector": [
-          "Academia"
-        ],
-        "role": [
-          "IC Leadership"
-        ],
-        "technical": [
-          "Software Development"
-        ],
-        "domain": [
-          "Astro"
         ]
       }
     },
@@ -212,8 +146,8 @@
       "categories": [
         "HPC",
         "Academia",
-        "IC Leadership",
-        "Support"
+        "Support",
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -224,7 +158,7 @@
           "Academia"
         ],
         "role": [
-          "IC Leadership"
+          "People Manager"
         ]
       }
     },
@@ -242,9 +176,9 @@
       "categories": [
         "Industry",
         "Data Management/Governance",
-        "IC Leadership",
         "Biomedical",
-        "Core Facility"
+        "Core Facility",
+        "People Manager"
       ],
       "categoryTypes": {
         "sector": [
@@ -253,12 +187,12 @@
         "technical": [
           "Data Management/Governance"
         ],
-        "role": [
-          "IC Leadership"
-        ],
         "domain": [
           "Biomedical",
           "Core Facility"
+        ],
+        "role": [
+          "People Manager"
         ]
       }
     },
@@ -278,8 +212,8 @@
         "Data Science/ML/AI",
         "HPC",
         "Industry",
-        "IC Leadership",
-        "Biomedical"
+        "Biomedical",
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -290,11 +224,11 @@
         "sector": [
           "Industry"
         ],
-        "role": [
-          "IC Leadership"
-        ],
         "domain": [
           "Biomedical"
+        ],
+        "role": [
+          "People Manager"
         ]
       }
     },
@@ -313,9 +247,9 @@
         "Cloud",
         "HPC",
         "Academia",
-        "IC Leadership",
         "Ops/Automation",
-        "Support"
+        "Support",
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -328,7 +262,7 @@
           "Academia"
         ],
         "role": [
-          "IC Leadership"
+          "People Manager"
         ]
       }
     },
@@ -380,7 +314,7 @@
         "HPC",
         "Public sector",
         "Data Management/Governance",
-        "IC Leadership"
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -392,7 +326,7 @@
           "Public sector"
         ],
         "role": [
-          "IC Leadership"
+          "People Manager"
         ]
       }
     },
@@ -411,8 +345,8 @@
         "Data Science/ML/AI",
         "HPC",
         "Academia",
-        "IC Leadership",
-        "Support"
+        "Support",
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -424,7 +358,7 @@
           "Academia"
         ],
         "role": [
-          "IC Leadership"
+          "People Manager"
         ]
       }
     },
@@ -436,7 +370,7 @@
       "city": "Seattle",
       "state": "WA",
       "country": "USA",
-      "description": "",
+      "description": "We are searching for a Director of Scientific Computing to define and execute the long-term scientific computing strategy that powers Neural Dynamics’ research programs and radical approach to open science. The Director will oversee engineering capabilities that empower internal and external scientists to make discoveries using petabyte scale biological datasets and large foundation and mechanistic models of the brain. Lead the analysis of petascale multimodal biological data, leveraging state-of-the-art ML for images, timeseries, and omics data.",
       "url": "https://alleninstitute.hrmdirect.com/employment/job-opening.php?req=3783985&req_loc=1425298&cust_sort1=29268&csrc=37190",
       "posted": "2026-10-04",
       "categories": [
@@ -444,8 +378,8 @@
         "Data Science/ML/AI",
         "Nonprofit",
         "Data Management/Governance",
-        "IC Leadership",
-        "Biomedical"
+        "Biomedical",
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -456,11 +390,11 @@
         "sector": [
           "Nonprofit"
         ],
-        "role": [
-          "IC Leadership"
-        ],
         "domain": [
           "Biomedical"
+        ],
+        "role": [
+          "People Manager"
         ]
       }
     },
@@ -513,7 +447,8 @@
         "HPC",
         "Quantum Computing",
         "Public sector",
-        "IC Leadership"
+        "IC Leadership",
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -524,7 +459,8 @@
           "Public sector"
         ],
         "role": [
-          "IC Leadership"
+          "IC Leadership",
+          "People Manager"
         ]
       }
     },
@@ -570,7 +506,8 @@
         "Natural Language Processing",
         "Industry",
         "IC Leadership",
-        "Software Development"
+        "Software Development",
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -582,7 +519,8 @@
           "Industry"
         ],
         "role": [
-          "IC Leadership"
+          "IC Leadership",
+          "People Manager"
         ]
       }
     },
@@ -601,7 +539,7 @@
         "Data Science/ML/AI",
         "HPC",
         "Academia",
-        "IC Leadership"
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -612,7 +550,7 @@
           "Academia"
         ],
         "role": [
-          "IC Leadership"
+          "People Manager"
         ]
       }
     },
@@ -700,7 +638,7 @@
       "categories": [
         "Quantum Computing",
         "Public sector",
-        "IC Leadership"
+        "People Manager"
       ],
       "categoryTypes": {
         "technical": [
@@ -710,7 +648,7 @@
           "Public sector"
         ],
         "role": [
-          "IC Leadership"
+          "People Manager"
         ]
       }
     },
@@ -773,36 +711,6 @@
         ],
         "role": [
           "Project/Program Manager"
-        ]
-      }
-    },
-    {
-      "id": 3496,
-      "title": "Head of AI Core Unit / Data Scientist - BioSysteM",
-      "company": "Technical University of Munich",
-      "location": "Munich DE",
-      "city": "Munich",
-      "state": "DE",
-      "country": "",
-      "description": "We are looking for an Independent junior research group leader (m/f/d) with knowledge of data / AI science to set up and lead the AI Core Unit of the BioSysteM Cluster of Excellence as soon as possible. The position is initially for 4 years and can be extended until 31.12.2032",
-      "url": "https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20251204_155309",
-      "posted": "2026-01-03",
-      "categories": [
-        "Data Science/ML/AI",
-        "Academia",
-        "Biomedical",
-        "Core Facility"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Data Science/ML/AI"
-        ],
-        "sector": [
-          "Academia"
-        ],
-        "domain": [
-          "Biomedical",
-          "Core Facility"
         ]
       }
     }
