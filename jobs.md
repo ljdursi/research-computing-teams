@@ -8,7 +8,7 @@ bgImg: "/assets/images/pages/jobs.png"
 
 Research Computing is a tough field that combines the challenges of many disciplines, and managing research computing teams is a specialty. Here I keep track of jobs in that specialty; highlights are posted weekly in the Research Computing Teams [Newsletter](https://www.researchcomputingteams.org/archive)
 
-Email me a job link to have it added to the job board for free; listings will appear once they have been approved for relevance and as non-spam.  Jobs should have, as a responsibility, the managing of projects or products, or the leading or mentoring of people.
+Email me a job link to have it added to the job board for free; listings will appear once they have been approved for relevance and as non-spam. Jobs sent in by readers are featured at the top of the board for their first two weeks.  Jobs should have, as a responsibility, the managing of projects or products, or the leading or mentoring of people.
 
 <div id="jobs-container">
   <div class="jobs-filters" style="margin-bottom: 1.5rem;">
@@ -128,6 +128,20 @@ Email me a job link to have it added to the job board for free; listings will ap
     font-size: 0.85rem;
   }
 
+  .job-item.submitted {
+    border-left: 4px solid #1E63BD;
+  }
+
+  .job-submitted {
+    display: inline-block;
+    background: #1E63BD;
+    color: white;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+  }
+
   .job-posted {
     color: #999;
     font-size: 0.85rem;
@@ -236,7 +250,8 @@ Email me a job link to have it added to the job board for free; listings will ap
       const postedDate = job.posted ? new Date(job.posted).toLocaleDateString() : '';
 
       return `
-        <div class="job-item" id="job-${job.id}">
+        <div class="job-item${job.submitted ? ' submitted' : ''}" id="job-${job.id}">
+          ${job.submitted ? '<div class="job-submitted">Reader submitted</div>' : ''}
           <div class="job-title">
             <a href="${job.url}" target="_blank" rel="noopener">${job.title}</a>
           </div>
