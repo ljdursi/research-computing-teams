@@ -1,7 +1,37 @@
 {
-  "generated": "2026-11-08T11:14:03.864239",
-  "count": 22,
+  "generated": "2026-11-08T11:27:24.910745",
+  "count": 23,
   "jobs": [
+    {
+      "id": 3554,
+      "title": "Director of Research IT",
+      "company": "Towson University",
+      "location": "Towson MD USA",
+      "city": "Towson",
+      "state": "MD",
+      "country": "USA",
+      "description": "The Director of Research IT is a new position which provides strategic leadership for the institution’s research cyberinfrastructure (people, process, and technology), ensuring that research IT capabilities effectively enable and advance the research mission. The Director will also be a lead role for many of the research cyberinfrastructure projects and researcher-specific implementations. This position builds and sustains a research IT community of practice, establishes effective communications channels, monitors service performance and outcomes, and helps to plan for the long-term development of institutional capacity and capability to support a growing and evolving research enterprise. The position will initially have no direct reports, relying on collaboration with others.",
+      "url": "https://towson.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=260000QW",
+      "posted": "2026-11-08",
+      "categories": [
+        "HPC",
+        "Academia",
+        "IC Leadership",
+        "Support"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC",
+          "Support"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "IC Leadership"
+        ]
+      }
+    },
     {
       "id": 3550,
       "title": "Ecosystem Lead (Senior Research Fellow)",
